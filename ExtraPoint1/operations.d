@@ -1,0 +1,17 @@
+.\operations.o: operations.c
+.\operations.o: operations.h
+.\operations.o: C:\Users\giacomoponzuoli\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\operations.o: C:\Users\giacomoponzuoli\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\operations.o: C:\Users\giacomoponzuoli\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\operations.o: C:\Users\giacomoponzuoli\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\operations.o: C:\Users\giacomoponzuoli\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\operations.o: C:\Users\giacomoponzuoli\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\operations.o: C:\Users\giacomoponzuoli\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\operations.o: GLCD/GLCD.h
+.\operations.o: timer/timer.h
+.\operations.o: RIT/RIT.h
+.\operations.o: GLCD/AsciiLib.h
+.\operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\operations.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
