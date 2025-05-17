@@ -120,4 +120,4 @@ If you have any questions, issues, or feedback, feel free to reach out to us:
 
 [![LinkedIn](https://img.icons8.com/color/25/000000/linkedin.png) Giacomo Ponzuoli](https://www.linkedin.com/in/giacomo-ponzuoli/)
 
-[![GitHub](https://img.icons8.com/color/25/000000/github.png) Open an issue](https://github.com/giacomoponzuoli3/Emergency-Backup/issues)
+[![GitHub](https://img.icons8.com/color/25/000000/github.png) Open an issue](https://github.com/giacomoponzuoli3/quoridor/issues)
